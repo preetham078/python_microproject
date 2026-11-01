@@ -23,4 +23,4 @@ The main goal of this repository is to document my journey of learning Python th
 * VS Code
 * Git & GitHub
 
-This repository serves as a learning portfolio and demonstrates my progress in Python programming, logical thinking, and project development.
+This repository serves as a learning portfolio and demonstrates my progress in Python programming, logical thinking.
